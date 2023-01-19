@@ -1,5 +1,5 @@
 
-Binni Kumari here....
+Binni here....
 <a href="https://nodejs.org/en/docs/"><img src="https://onepatch.com/wp-content/uploads/2020/03/NODEJS_CIRCLE.gif" width="80"/></a>
 <a href="https://angular.io/"><img src="https://user-images.githubusercontent.com/1560278/27637937-cb4b9b24-5c11-11e7-949b-15c1e4cdb53c.gif" width="80"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://onepatch.com/wp-content/uploads/2020/03/CSS_CIRCLE.gif" width="80"/></a>
