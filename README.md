@@ -8,4 +8,4 @@
 <a href="https://docs.nestjs.com/"><img src="https://docs.nestjs.com/assets/logo-small.svg" width="80"/></a>
 <a href="https://docs.github.com/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" width="80"/></a>
 <a href="https://docs.github.com/en"><img src="https://www.clipartmax.com/png/small/112-1128757_iab-logo-dma-logo-ms-azure-logo-microsoft-azure.png" width="80"/></a>
-<a href="https://docs.github.com/en"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mongodb-logo.png" width="80"/></a>
+<a href="https://docs.github.com/en"><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" width="80"/></a>
