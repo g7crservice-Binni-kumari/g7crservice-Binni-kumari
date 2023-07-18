@@ -9,5 +9,5 @@
 <a href="https://docs.github.com/en"><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" width="80"/></a>
 <a href="https://docs.github.com/en"><img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="80"/></a>
 <div>
-  <a href="https://docs.github.com/en"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="50%"/></a>
+  <a href="https://docs.github.com/en"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ3a2dtdHNsN2x2dmxqdW9rdXdyZXJ6aWRyZXF3cGJkdndjaGdkcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif" width="50%"/></a>
 </div>
