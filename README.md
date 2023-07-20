@@ -1,4 +1,4 @@
-<div>
+<div style={{display:"Flex"}}>
   <div>
     binni
   </div>
